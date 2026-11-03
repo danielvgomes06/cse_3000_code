@@ -16,3 +16,8 @@ Your goal is to connect anonymized data back to its source data and check the ma
 
 ### Module 08: Sustainability in Computing
 You will be given a toy dataset and have the opportunity to explore the potential effects of choosing sustainable energy sources to perform computations. You'll code the energy calculation in "sustainability calculations" script, and then you can review the results of various decisions in the "check calculations" notebook. 
+
+### Module 09: Personal Statement on AI Ethics
+I think that as AI becomes a bigger part of our everyday lives, it's important to make sure it's being used responsibly. After reading Chapter 5 of Ethical Machines, one thing that stood out to me was that companies can't just say they care about fairness, privacy, and honesty. They actually need to show it through their actions and take responsibility for the technology they create.
+
+Personally, I think AI has a lot of benefits and can make many things easier, but it can also cause problems if it's not used carefully. I believe companies should be open about how their AI works, think about what could go wrong, and take responsibility when mistakes happen. To me, AI ethics shouldn't just be something companies write down to make themselves look good. It should actually play a role in the decisions they make and how they develop and use AI.
